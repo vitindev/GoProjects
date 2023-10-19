@@ -1,8 +1,8 @@
 package main
 
 import (
-	"GoProjects/auxiliar"
 	"fmt"
+	"pacotes/auxiliar"
 )
 
 func main() {

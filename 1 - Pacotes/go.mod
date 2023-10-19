@@ -1,3 +1,3 @@
-module GoProjects
+module pacotes
 
-go 1.21
+go 1.21.3
